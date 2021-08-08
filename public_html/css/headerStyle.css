@@ -1,0 +1,83 @@
+header {
+    background-color: white;
+}
+
+header section {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 70px;
+}
+
+header img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+#headerLine {
+    height: 10px;
+    background-color: #798490;
+}
+
+#avatar-box {
+    height: 145px;
+    width: 145px;
+    margin-right: 15px;
+    border-radius: 100%;
+    border: 1px solid black;
+    background-image: url("../img/avatar.jpg");
+    background-size: cover;
+    background-position-y: center;
+}
+
+#person {
+    display: flex;
+}
+
+#person-preview {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#person-preview svg {
+    margin-right: 7px;
+}
+
+#person-preview div:first-child {
+    font-size: 28px;
+}
+
+#person-preview div:nth-child(2) {
+    font-size: 18px;
+    margin-bottom: 5px;
+}
+
+#contact-me {
+    display: flex;
+    align-items: center;
+}
+
+#contact-me div {
+    display: flex;
+    align-items: center;
+    padding: 5px 10px;
+    background-color: #43b436;
+    border-radius: 5px;
+}
+
+#contact-me div:hover {
+    background-color: #35922b;
+}
+
+#contact-me a {
+    text-decoration: none;
+    color: white;
+}
+
+#contact-me svg {
+    height: 25px;
+    width: 25px;
+    margin-right: 10px;
+    fill: white;
+}
