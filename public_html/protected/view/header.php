@@ -1,11 +1,11 @@
 <header>
     <div id="headerLine"></div>
-    <section>
-        <div id="person">
+    <section class="flex">
+        <div id="person" class="flex">
             <div id="avatar-box">
                 <!-- avatar image in headerStyle.css -->
             </div>
-            <div id="person-preview">
+            <div id="person-preview" class="flex">
                 <div class="darkGray">Борис Тимофеев</div>
                 <div>Начинающий веб-разработчик</div>
                 <div>
@@ -17,9 +17,9 @@
                 </div>
             </div>
         </div>
-        <div id="contact-me">
+        <div id="contact-me" class="flex">
             <a href="https://vk.com/sirobt">
-                <div><?php include 'img/svg/vk-icon.php'?>Contact me</div>
+                <div class="flex"><?php include 'img/svg/vk-icon.php'?>Contact me</div>
             </a>
         </div>
     </section>
