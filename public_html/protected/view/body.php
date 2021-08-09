@@ -13,6 +13,7 @@
         </main>
         <aside>
             <?php include 'address.php' ?>
+            <?php include 'skills.php' ?>
         </aside>
     </section>
 </body>

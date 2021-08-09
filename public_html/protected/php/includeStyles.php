@@ -2,3 +2,4 @@
 <link rel="stylesheet" type="text/css" href="css/style.css">
 <link rel="stylesheet" type="text/css" href="css/headerStyle.css">
 <link rel="stylesheet" type="text/css" href="css/addressStyle.css">
+<link rel="stylesheet" type="text/css" href="css/skillsStyle.css">
