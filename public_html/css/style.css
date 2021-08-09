@@ -9,6 +9,15 @@ body {
     background-color: #d7e0ea;
 }
 
+main {
+    width: 70%;
+    margin-right: 20px;
+}
+
+aside {
+    width: 30%;
+}
+
 .border {
     border: 1px solid black;
 }
@@ -19,4 +28,19 @@ body {
 
 .inline-block {
     display: inline-block;
+}
+
+.infoBlock {
+    margin-top: 20px;
+    background-color: white;
+    padding: 20px 20px;
+}
+
+.blockTitle {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.flex {
+    display: flex;
 }
