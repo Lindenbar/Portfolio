@@ -7,5 +7,13 @@
 </head>
 <body>
     <?php include 'header.php' ?>
+    <section class="flex">
+        <main>
+            <?php include 'aboutMe.php' ?>
+        </main>
+        <aside>
+            <?php include 'address.php' ?>
+        </aside>
+    </section>
 </body>
 </html>
