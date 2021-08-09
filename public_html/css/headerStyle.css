@@ -3,7 +3,6 @@ header {
 }
 
 header section {
-    display: flex;
     justify-content: space-between;
     padding: 20px 70px;
 }
@@ -30,12 +29,7 @@ header img {
     background-position-y: center;
 }
 
-#person {
-    display: flex;
-}
-
 #person-preview {
-    display: flex;
     flex-direction: column;
     justify-content: center;
 }
@@ -54,12 +48,10 @@ header img {
 }
 
 #contact-me {
-    display: flex;
     align-items: center;
 }
 
 #contact-me div {
-    display: flex;
     align-items: center;
     padding: 5px 10px;
     background-color: #43b436;
