@@ -1,5 +1,5 @@
 <svg id="vk-icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-     width="20px" height="20px" viewBox="0 0 548.358 548.358" style="enable-background:new 0 0 548.358 548.358;"
+     width="21px" height="21px" viewBox="0 0 548.358 548.358" style="enable-background:new 0 0 548.358 548.358;"
      xml:space="preserve">
 <g>
     <path d="M545.451,400.298c-0.664-1.431-1.283-2.618-1.858-3.569c-9.514-17.135-27.695-38.167-54.532-63.102l-0.567-0.571
