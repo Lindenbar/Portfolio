@@ -17,4 +17,7 @@
         </aside>
     </section>
 </body>
+<footer>
+    <?php include 'protected/php/includeScriptsPost.php' ?>
+</footer>
 </html>
