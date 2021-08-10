@@ -10,10 +10,10 @@
                 <div>Начинающий веб-разработчик</div>
                 <div>
                     <a href="#" class="inline-block"><?php include 'img/svg/vk-icon.php'?></a>
-                    <a href="#" class="inline-block"><?php include 'img/svg/discord-icon.php'?></a>
-                    <a href="#" class="inline-block"><?php include 'img/svg/telegram-icon.php'?></a>
                     <a href="#" class="inline-block"><?php include 'img/svg/instagram-icon.php'?></a>
+                    <a href="#" class="inline-block"><?php include 'img/svg/telegram-icon.php'?></a>
                     <a href="#" class="inline-block"><?php include 'img/svg/whatsapp-icon.php'?></a>
+                    <a href="#" class="inline-block"><?php include 'img/svg/discord-icon.php'?></a>
                 </div>
             </div>
         </div>

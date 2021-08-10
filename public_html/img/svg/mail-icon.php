@@ -1,4 +1,4 @@
-<svg id="mail-icon" enable-background="new 0 0 512 512" height="20px" viewBox="0 0 512 512" width="20px" xmlns="http://www.w3.org/2000/svg">
+<svg id="mail-icon" class="icon" enable-background="new 0 0 512 512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
     <path d="m467 61h-422c-24.813 0-45 20.187-45 45v300c0 24.813 20.187 45 45 45h422c24.813 0 45-20.187
         45-45v-300c0-24.813-20.187-45-45-45zm-65.19 30-145.81 108.785-145.81-108.785zm-356.81 0h15.021l187.009
         139.523c2.661 1.985 5.815 2.977 8.97 2.977s6.309-.992 8.97-2.977l187.009-139.523h15.021c8.265 0 14.989 6.719 14.999

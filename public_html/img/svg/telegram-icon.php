@@ -1,5 +1,5 @@
-<svg version="1.1" id="telegram-icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-     viewBox="0 0 300 300" style="enable-background:new 0 0 300 300;" xml:space="preserve" height="20px" width="20px">
+<svg version="1.1" id="telegram-icon" class="icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+     viewBox="0 0 300 300" style="enable-background:new 0 0 300 300;" xml:space="preserve">
 <g id="XMLID_496_">
     <path id="XMLID_497_" d="M5.299,144.645l69.126,25.8l26.756,86.047c1.712,5.511,8.451,7.548,12.924,3.891l38.532-31.412
 		c4.039-3.291,9.792-3.455,14.013-0.391l69.498,50.457c4.785,3.478,11.564,0.856,12.764-4.926L299.823,29.22
