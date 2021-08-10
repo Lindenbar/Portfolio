@@ -1,0 +1,1 @@
+<script type="text/javascript" src="js/fill_skills_bar.js"></script>
