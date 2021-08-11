@@ -5,6 +5,7 @@
 <link rel="stylesheet" type="text/css" href="css/skillsStyle.css">
 <link rel="stylesheet" type="text/css" href="css/iconsStyle.css">
 <link rel="stylesheet" type="text/css" href="css/githubStyle.css">
+<link rel="stylesheet" type="text/css" href="css/certificatesStyle.css">
 <!-- github-activity css -->
 <link rel="stylesheet" href="https://unpkg.com/octicons@4.4.0/build/font/octicons.css">
 <link rel="stylesheet" href="protected/library/plugins/github-activity/src/github-activity.css">

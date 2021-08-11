@@ -69,3 +69,17 @@
     margin-right: 10px;
     fill: white;
 }
+
+#certificates #link-icon, #certificates #download-icon {
+    height: 20px;
+    fill: #c2c2c2;
+}
+
+#certificates #link-icon:hover {
+    fill: #4183c4;
+}
+
+#certificates #download-icon:hover {
+    fill: #39dd34;
+}
+
