@@ -75,11 +75,11 @@
     fill: #c2c2c2;
 }
 
-#certificates #link-icon:hover {
-    fill: #4183c4;
+.certificateAction a:hover div #link-icon {
+    fill: #4183c4 !important;
 }
 
-#certificates #download-icon:hover {
-    fill: #39dd34;
+.certificateAction a:hover div #download-icon {
+    fill: #25ab21 !important;
 }
 

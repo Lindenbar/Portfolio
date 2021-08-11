@@ -41,3 +41,7 @@
     display: flex;
 }
 
+.certificateAction a:hover div {
+    background-color: #ddd;
+}
+
