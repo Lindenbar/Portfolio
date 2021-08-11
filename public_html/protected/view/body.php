@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <title>Визитка</title>
     <?php include 'protected/php/includeStyles.php' ?>
+    <?php include 'protected/php/includeScripts.php' ?>
 </head>
 <body>
     <?php include 'header.php' ?>
